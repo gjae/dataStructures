@@ -66,7 +66,7 @@ l_list = SinglyLinkedList()  # Create new linked list instance
 # Add elements to the list (they will be added in reverse order)
 l_list.add("Eggs")  # Becomes third item when we print
 l_list.add("Ham")   # Becomes second item
-l_list.add("Rise")  # Becomes first item
+l_list.add("Rice")  # Becomes first item
 
 # Iterate through and print all elements in the list
 for c in l_list.words():
